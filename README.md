@@ -2,9 +2,7 @@
 - 👀 I’m interested in learning more about AI
 - 🌱 I’m currently learning data analytics
 - 💞️ I’m looking to collaborate on projects
-- 📫 How to reach me from GitHub
-- 😄 Pronouns: that/boi
-- ⚡ Fun fact: I like UC Davis
+- ⚡ Fun fact: I love Machine Learning/Artificial Intelligence
 
 <!---
 aakhtar777/aakhtar777 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
